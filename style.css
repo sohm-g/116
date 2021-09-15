@@ -1,0 +1,12 @@
+h3
+{
+    font-size: 25px !important;
+}
+
+canvas {
+    border: 5px ridge aqua;
+}
+
+body {
+    background-color: blueviolet;
+}
